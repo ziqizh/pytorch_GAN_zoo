@@ -1,0 +1,13 @@
+{
+  "pathDB": "datasets/CelebA/",
+  "config": {
+    "maxIterAtScale": [
+      48000,
+      96000,
+      96000,
+      96000,
+      96000,
+      96000
+    ]
+  }
+}

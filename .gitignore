@@ -1,3 +1,6 @@
 output_networks/*
 *.pyc
 setup.py
+CelebA/*
+datasets/
+cifar-10-batches-py/*
